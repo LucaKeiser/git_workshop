@@ -24,6 +24,7 @@ The dataset includes the following variables:
 
 Use this file to make a series of changes to be version controlledby Git and/or GitHub. Below is a list of sentences that can be edited one at a time, so that we don't waste time trying to think of meaningful edits.
 
+0. Testing some changes here.
 1. Two times two makes four.
 2. Berne is the de-facto capital of Switzerland.
 3. This workshop is organised by the University of Lucerne.
