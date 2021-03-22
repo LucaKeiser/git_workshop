@@ -26,7 +26,7 @@ Use this file to make a series of changes to be version controlledby Git and/or 
 
 1. Two times two makes four.
 2. Berne is the de-facto capital of Switzerland.
-3. This workshop is organised by the University of Zurich.
+3. This workshop is organised by the University of Lucerne.
 4. March is the second month of the year.
 5. We are in year 2025.
 6. The Guardian is a newspaper from Germany.
