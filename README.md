@@ -1,5 +1,7 @@
 ## Materials for a Workshop on Git and GitHub
 
+## by Resul Umit
+
 This branch of the repository holds the materials to be used by the participants of the workshop. 
 
 Materials mimic a simple academic project, imagined to introduce a new dataset on the Google Scholar rankings of fictitious journals with a short manuscript.
