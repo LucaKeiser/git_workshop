@@ -1,4 +1,4 @@
-## Materials for a Workshop on Git and GitHub
+## Materials for a Workshop on Git and GitHub 22.03.2021
 
 ## by Resul Umit
 
