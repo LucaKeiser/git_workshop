@@ -10,7 +10,7 @@ Materials mimic a simple academic project, imagined to introduce a new dataset o
 
 The dataset includes the following variables:
 
-- **name**: journals (1090 random titles)
+- **journals**: journals (1090 random titles)
 - **origin**: geographic origins (five continents)
 - **branch**: major discipline of journals (four branches)
 - **since**: time of first publication (years)
